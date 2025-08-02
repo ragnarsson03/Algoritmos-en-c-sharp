@@ -1,0 +1,15 @@
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Users\PC\Desktop\GitHub\Algoritmos-en-c-sharp\AplicarDescuento\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

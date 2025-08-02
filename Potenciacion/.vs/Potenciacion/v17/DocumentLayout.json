@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\PC\\Desktop\\GitHub\\Algoritmos-en-c-sharp\\Potenciacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB19668E-97D3-4AEB-908D-491DC31978C5}|Potenciacion\\Potenciacion.csproj|d:\\users\\pc\\desktop\\github\\algoritmos-en-c-sharp\\potenciacion\\potenciacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB19668E-97D3-4AEB-908D-491DC31978C5}|Potenciacion\\Potenciacion.csproj|solutionrelative:potenciacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\PC\\Desktop\\GitHub\\Algoritmos-en-c-sharp\\Potenciacion\\Potenciacion\\Program.cs",
+              "RelativeDocumentMoniker": "Potenciacion\\Program.cs",
+              "ToolTip": "D:\\Users\\PC\\Desktop\\GitHub\\Algoritmos-en-c-sharp\\Potenciacion\\Potenciacion\\Program.cs",
+              "RelativeToolTip": "Potenciacion\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:46:44.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

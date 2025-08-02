@@ -1,0 +1,14 @@
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\bin\Debug\net8.0\Potenciacion.exe
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\bin\Debug\net8.0\Potenciacion.deps.json
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\bin\Debug\net8.0\Potenciacion.runtimeconfig.json
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\bin\Debug\net8.0\Potenciacion.dll
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\bin\Debug\net8.0\Potenciacion.pdb
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.AssemblyInfoInputs.cache
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.AssemblyInfo.cs
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.dll
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\refint\Potenciacion.dll
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.pdb
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\Potenciacion.genruntimeconfig.cache
+D:\Users\PC\Desktop\GitHub\Potenciacion\Potenciacion\obj\Debug\net8.0\ref\Potenciacion.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potenciacion", "Potenciacion\Potenciacion.csproj", "{DB19668E-97D3-4AEB-908D-491DC31978C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB19668E-97D3-4AEB-908D-491DC31978C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB19668E-97D3-4AEB-908D-491DC31978C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB19668E-97D3-4AEB-908D-491DC31978C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB19668E-97D3-4AEB-908D-491DC31978C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA68F680-6605-4EF0-95CA-03E6B068F667}
+	EndGlobalSection
+EndGlobal
